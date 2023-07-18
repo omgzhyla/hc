@@ -1,0 +1,16 @@
+{
+  "name": "hc",
+  "version": "1.0.0",
+  "description": "Self assinment",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cli-table3": "^0.6.3"
+  }
+}
